@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-22T11:27:22.107Z",
+  "passed": true,
+  "slides": {
+    "1": {
+      "slide": 1,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.85
+    },
+    "2": {
+      "slide": 2,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.66
+    },
+    "3": {
+      "slide": 3,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.7
+    },
+    "4": {
+      "slide": 4,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.68
+    },
+    "5": {
+      "slide": 5,
+      "errors": [],
+      "warnings": [
+        "Slide is sparse: content fills 54% of the height"
+      ],
+      "fill": 0.54
+    },
+    "6": {
+      "slide": 6,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.96
+    },
+    "7": {
+      "slide": 7,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.66
+    }
+  }
+}
