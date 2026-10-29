@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-29T11:31:42.582Z",
+  "passed": true,
+  "slides": {
+    "1": {
+      "slide": 1,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.75
+    },
+    "2": {
+      "slide": 2,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.92
+    },
+    "3": {
+      "slide": 3,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.55
+    },
+    "4": {
+      "slide": 4,
+      "errors": [],
+      "warnings": [
+        "Slide is sparse: content fills 52% of the height"
+      ],
+      "fill": 0.52
+    },
+    "5": {
+      "slide": 5,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.57
+    }
+  }
+}
