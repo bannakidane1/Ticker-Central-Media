@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-30T11:49:43.763Z",
+  "passed": true,
+  "slides": {
+    "1": {
+      "slide": 1,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.71
+    },
+    "2": {
+      "slide": 2,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.92
+    },
+    "3": {
+      "slide": 3,
+      "errors": [],
+      "warnings": [
+        "Slide is sparse: content fills 43% of the height"
+      ],
+      "fill": 0.43
+    },
+    "4": {
+      "slide": 4,
+      "errors": [],
+      "warnings": [
+        "Slide is sparse: content fills 48% of the height"
+      ],
+      "fill": 0.48
+    },
+    "5": {
+      "slide": 5,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.57
+    }
+  }
+}
