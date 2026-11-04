@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-04T22:13:14.114Z",
+  "passed": true,
+  "slides": {
+    "1": {
+      "slide": 1,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.75
+    },
+    "2": {
+      "slide": 2,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.92
+    },
+    "3": {
+      "slide": 3,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.75
+    },
+    "4": {
+      "slide": 4,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.7
+    },
+    "5": {
+      "slide": 5,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.57
+    }
+  }
+}
