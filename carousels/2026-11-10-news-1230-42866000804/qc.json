@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-11-10T17:33:21.800Z",
+  "passed": true,
+  "slides": {
+    "1": {
+      "slide": 1,
+      "errors": [],
+      "warnings": [
+        "Slide is sparse: content fills 48% of the height"
+      ],
+      "fill": 0.48
+    },
+    "2": {
+      "slide": 2,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.7
+    },
+    "3": {
+      "slide": 3,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.56
+    },
+    "4": {
+      "slide": 4,
+      "errors": [],
+      "warnings": [],
+      "fill": 0.7
+    }
+  }
+}
